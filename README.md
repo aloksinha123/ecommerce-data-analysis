@@ -133,7 +133,7 @@ C:.
             create_tables.sql
 
 
-            ## Dashboard Preview
+## Dashboard Preview
 
 ### Full Dashboard
 
@@ -141,8 +141,8 @@ C:.
 
 ### Monthly Revenue Trend
 
-![Revenue Trend](dashboard/screenshots/monthly revenue.png)
+![Revenue Trend](dashboard/screenshots/monthly_revenue.png)
 
 ### Top Products
 
-![Top Products](dashboard/screenshots/revenue_by_category.png (2).png)
+![Top Products](dashboard/screenshots/revenue_by_category.png.png)
